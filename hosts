@@ -30,6 +30,7 @@ ff02::2 ip6-allrouters
 # Disable ads on YouTube
 0.0.0.0 ad-emea.doubleclick.net
 0.0.0.0 ad.doubleclick.net
+0.0.0.0 ad.youtube.com
 0.0.0.0 adclick.g.doubleclick.net
 0.0.0.0 ads.youtube.com
 0.0.0.0 googleads.g.doubleclick.net
@@ -38,6 +39,27 @@ ff02::2 ip6-allrouters
 0.0.0.0 s1.2mdn.net
 0.0.0.0 static.doubleclick.net 
 0.0.0.0 www.googleadservices.com
+
+# Part of disabling ads on YouTube, not checked
+0.0.0.0 ads.doubleclick.net
+0.0.0.0 googleads4.g.doubleclick.net
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 stats.g.doubleclick.net
+0.0.0.0 pagead.l.doubleclick.net
+0.0.0.0 s0.2mdn.net
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 s.youtube.com
+0.0.0.0 static.doubleclick.net
+0.0.0.0 ad-g.doubleclick.net
+0.0.0.0 ad.mo.doubleclick.net
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 pagead.googlesyndication.com
+0.0.0.0 pagead1.googlesyndication.com
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 2mdn.net
 
 # Disable ads
 0.0.0.0 109.203.98.31
