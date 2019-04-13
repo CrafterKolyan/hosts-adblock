@@ -42,20 +42,18 @@ ff02::2 ip6-allrouters
 
 # Part of disabling ads on YouTube, not checked
 0.0.0.0 ads.doubleclick.net
+0.0.0.0 googleads1.g.doubleclick.net
+0.0.0.0 googleads2.g.doubleclick.net
+0.0.0.0 googleads3.g.doubleclick.net
 0.0.0.0 googleads4.g.doubleclick.net
-0.0.0.0 pagead2.googlesyndication.com
-0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 pagead.l.doubleclick.net
-0.0.0.0 s0.2mdn.net
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 s.youtube.com
-0.0.0.0 static.doubleclick.net
 0.0.0.0 ad-g.doubleclick.net
 0.0.0.0 ad.mo.doubleclick.net
-0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 pagead.googlesyndication.com
 0.0.0.0 pagead1.googlesyndication.com
 0.0.0.0 pagead2.googlesyndication.com
@@ -209,7 +207,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 pixel.adsniper.ru
 0.0.0.0 post.rmbn.net
 0.0.0.0 post.rmbn.ru
-0.0.0.0 post.rmbn.ru
 0.0.0.0 profile.begun.ru
 0.0.0.0 promo.expertoption.com
 0.0.0.0 psma01.com
@@ -270,7 +267,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 w74.am15.net
 0.0.0.0 w91.am15.net
 0.0.0.0 web.shoveac.com
-0.0.0.0 winvideo.org
 0.0.0.0 winvideo.org
 0.0.0.0 wqtghviu.does-alone.info
 0.0.0.0 www.ad.admitad.com
