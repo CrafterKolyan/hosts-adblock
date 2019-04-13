@@ -32,7 +32,7 @@ a non-routable meta-address used to designate an invalid, unknown or non applica
                     
 # Russian version
 # hosts AdBlock
-Этот репозиторий содержит в себе файл `hosts`, который блокирует большее количество рекламных объявлений в интернете
+Этот репозиторий содержит в себе файл `hosts`, который блокирует большое количество рекламных объявлений в интернете.
 
 ## Установка
 
