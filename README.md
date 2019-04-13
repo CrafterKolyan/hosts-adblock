@@ -40,7 +40,7 @@ a non-routable meta-address used to designate an invalid, unknown or non applica
 Скопировать файл `hosts` в папку `C:\Windows\System32\drivers\etc\`.
 
 ### Linux & Unix & Mac OS
-Скопировать файл `hosts` в `/etc/`.
+Скопировать файл `hosts` в папку `/etc/`.
 
 ### Other system
 Вы можете найти местоположение файла `hosts` для своей операционной системы при помощи [Википедии](https://en.wikipedia.org/wiki/Hosts_\(file\)#Location_in_the_file_system).
@@ -54,7 +54,7 @@ a non-routable meta-address used to designate an invalid, unknown or non applica
 > 204.71.200.67 yahoo.com
 
 В данном примере мы ассоциируем доменное имя `yahoo.com` с IP адресом `204.71.200.67`.
-Это означает, что каждый раз, когда мы будем обращаться по имени `yahoo.com` мы будем автоматически
+Это означает, что каждый раз, когда мы будем обращаться по имени `yahoo.com`, мы будем автоматически
 перенаправлены на IP адрес `204.71.200.67`.
 
 Файл `hosts` из данного репозитория перенаправляет множество доменных имён, содержащих рекламу, на IP адрес
