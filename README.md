@@ -1,6 +1,6 @@
 # hosts AdBlock
 
-This repository contains hosts file which blocks most advertisements over the internet
+This repository contains `hosts` file which blocks most advertisements over the internet
 
 # Installation
 
