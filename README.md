@@ -1,4 +1,4 @@
-[Перейти к русской версии (Go to russian version)](#Russian version)
+[Перейти к русской версии (Go to russian version)](#Russian-version)
 # hosts AdBlock
 
 This repository contains `hosts` file which blocks most advertisements over the internet
