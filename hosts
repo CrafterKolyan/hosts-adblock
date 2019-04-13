@@ -60,6 +60,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 pagead1.googlesyndication.com
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 2mdn.net
+0.0.0.0 yt3.ggpht.com
 
 # Disable ads
 0.0.0.0 109.203.98.31
