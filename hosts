@@ -48,10 +48,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 googleads4.g.doubleclick.net
 0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 pagead.l.doubleclick.net
-0.0.0.0 googleads.g.doubleclick.net
-0.0.0.0 ad.doubleclick.net
 0.0.0.0 securepubads.g.doubleclick.net
-0.0.0.0 s.youtube.com
 0.0.0.0 ad-g.doubleclick.net
 0.0.0.0 ad.mo.doubleclick.net
 0.0.0.0 pagead.googlesyndication.com
