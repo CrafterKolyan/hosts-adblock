@@ -6,10 +6,10 @@ This repository contains `hosts` file which blocks most advertisements over the 
 ## Installation
 
 ### Windows
-Copy `hosts` file to `C:\Windows\System32\drivers\etc\`.
+Copy `hosts` file to folder `C:\Windows\System32\drivers\etc\`.
 
 ### Linux & Unix & Mac OS
-Copy `hosts` file to `/etc/hosts`.
+Copy `hosts` file to folder `/etc/`.
 
 ### Other system
 You can find location of `hosts` file in your operating system via [Wikipedia](https://en.wikipedia.org/wiki/Hosts_\(file\)#Location_in_the_file_system).
